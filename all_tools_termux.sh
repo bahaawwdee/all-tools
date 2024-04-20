@@ -19,7 +19,7 @@ git clone "$url"
 echo "mojod"
 fi
 fi
-python /sdcard/bahaausd/ts.py
+python /bahaausd/ts.py
 
 apt update && apt upgrade -y
 
