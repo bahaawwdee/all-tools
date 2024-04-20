@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /scdard
 pkg update -y && pkg upgrade -y && pkg install git -y && pkg install python -y 
 echo "pleas wint "
 sleep 5
